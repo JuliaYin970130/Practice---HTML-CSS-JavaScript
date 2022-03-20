@@ -28,4 +28,5 @@ origin source: https://github.com/bradtraversy/50projects50days
 | [Day19](https://github.com/JuliaYin970130/Practice-HTML-CSS-JavaScript/tree/master/Day19) | [Theme Clock](https://juliayin970130.github.io/Practice-HTML-CSS-JavaScript/Day19) |
 | [Day20](https://github.com/JuliaYin970130/Practice-HTML-CSS-JavaScript/tree/master/Day20) | [Button Ripple Effect](https://juliayin970130.github.io/Practice-HTML-CSS-JavaScript/Day20) |
 | [Day21](https://github.com/JuliaYin970130/Practice-HTML-CSS-JavaScript/tree/master/Day21) | [Drag N Drop](https://juliayin970130.github.io/Practice-HTML-CSS-JavaScript/Day21) |
-
+| [Day22](https://github.com/JuliaYin970130/Practice-HTML-CSS-JavaScript/tree/master/Day22) | [Drawing App](https://juliayin970130.github.io/Practice-HTML-CSS-JavaScript/Day22) |
+| [Day23](https://github.com/JuliaYin970130/Practice-HTML-CSS-JavaScript/tree/master/Day23) | [Kinetic Loader](https://juliayin970130.github.io/Practice-HTML-CSS-JavaScript/Day23) |
